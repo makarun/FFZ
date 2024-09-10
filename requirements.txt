@@ -5,4 +5,3 @@ fastapi
 uvicorn[standard]
 httpx
 wikipedia
-git+https://github.com/LIAAD/yake
